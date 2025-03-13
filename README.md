@@ -7,9 +7,9 @@ The data is organised in the following files
 ### Metadata for the CEFR English Listening Corpus
 
 ### Linguistic features and embeddings for the CEFR English Listening Corpus
-OpenAI: bc_cam_with_ada_002_embeddings.csv
-BERT: bc_cam_bert_embeddings.csv
-Linguistic Features: bc_cam_5_taales_etc_variables.csv
+OpenAI: bc_cam_with_ada_002_embeddings.csv  
+BERT: bc_cam_bert_embeddings.csv  
+Linguistic Features: bc_cam_5_taales_etc_variables.csv  
 
 ## Python_Code
 ### Embeddings extraction
