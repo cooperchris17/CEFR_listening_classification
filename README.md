@@ -13,17 +13,17 @@ Linguistic Features: bc_cam_5_taales_etc_variables.csv
 
 ## Python_Code
 ### Embeddings extraction
-OpenAI: GPT_bc_cam_get_embeddings.ipynb
-BERT: BERT_Embeddings_Extractor.ipynb
+OpenAI: GPT_bc_cam_get_embeddings.ipynb  
+BERT: BERT_Embeddings_Extractor.ipynb  
 
 ### Classification
-OpenAI (finetuning SVM): GPT_bc_cam_finetuning_SVM.ipynb
-OpenAI (4 methods): GPT_bc_cam_embeddings_classification_B2plus_Bootstrap_500.ipynb
-BERT: BERT_bc_cam_embeddings_classification_B2plus_Bootstrap_500.ipynb
-Linguistic Features: TAALES_etc_bc_cam_embeddings_classification_B2plus_Bootstrap_500.ipynb
+OpenAI (finetuning SVM): GPT_bc_cam_finetuning_SVM.ipynb  
+OpenAI (4 methods): GPT_bc_cam_embeddings_classification_B2plus_Bootstrap_500.ipynb  
+BERT: BERT_bc_cam_embeddings_classification_B2plus_Bootstrap_500.ipynb  
+Linguistic Features: TAALES_etc_bc_cam_embeddings_classification_B2plus_Bootstrap_500.ipynb  
 
 ### Final model usage
-_Final_Model_and_YT22_Prediction.ipynb
+_Final_Model_and_YT22_Prediction.ipynb  
 
 ## Final_Model
 ADD HERE
