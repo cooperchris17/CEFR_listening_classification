@@ -5,7 +5,7 @@ The data is organised in the following files
 
 ## Data
 ### Metadata for the CEFR English Listening Corpus
-British_Council_Metadata.csv: Contains the filenames, CEFR level, URL to the original text, and format (listening, video, or YOuTube video)
+British_Council_Metadata.csv: Contains the filenames, CEFR level, URL to the original text, and format (listening, video, or YouTube video)
 cambridge_filenames.txt: the filenames contain the CEFR level, the exam name and question number (https://www.cambridgeenglish.org/learning-english/exam-preparation/)
 
 ### Linguistic features and embeddings for the CEFR English Listening Corpus
